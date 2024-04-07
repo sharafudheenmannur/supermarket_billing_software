@@ -20,7 +20,7 @@ Python 3.x
 Usage:
 
 Clone the repository:
-git clone https://github.com/your-username/supermarket-billing-system.git
+git clone https://github.com/sharafudheenmannur/supermarket-billing-system.git
 
 
 
