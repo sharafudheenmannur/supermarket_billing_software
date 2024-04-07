@@ -5,6 +5,7 @@ This Python script simulates a supermarket billing system where customers can en
 
 
 Features:
+
 Add products and quantities to the shopping cart.
 Calculate subtotal for each product and total bill amount.
 Apply discounts based on membership status.
@@ -20,16 +21,19 @@ Python 3.x
 Usage:
 
 Clone the repository:
+
 git clone https://github.com/sharafudheenmannur/supermarket-billing-system.git
 
 
 
 Navigate to the project directory:
+
 cd supermarket-billing-system
 
 
 
 Run the script:
+
 python billing_system.py
 
 
